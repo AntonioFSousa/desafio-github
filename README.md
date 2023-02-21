@@ -7,7 +7,7 @@ https://www.markdownguide.org/basic-syntax/
 
 principais comando utilizados 
 
-#### COMO CLONAR E INSTALAR AS DEPENDÊNCIAS DE UM PROJETO DO <a href ="https://www.youtube.com/watch?v=zje2h2nlVh8"><strong>GIT</strong></a>
+#### COMO CLONAR E INSTALAR AS DEPENDÊNCIAS DE UM PROJETO DO <a href ="https://www.youtube.com/watch?v=zje2h2nlVh8"><strong>GIT/GITHUB</strong></a>
 
 
 git status (Comando para saber qual status atual)
